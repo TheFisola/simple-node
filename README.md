@@ -59,5 +59,6 @@ Open `a/nice/path/to/a.file` then edit it with your settings. You will need:
 ## Running the project
 
     $ yarn start
+    $ npm start
  
 
